@@ -6,6 +6,10 @@ JBoss EAP Up and Running is a collection of examples and documentation to help J
 
 The examples are individual Git projects that focuses on common use cases.
 
+## Helm Examples for JBoss EAP
+
+* Examples for JBoss EAP can be installed in OpenShift using a `ProjectHelmChartRepository` by following [these instructions](https://jboss-eap-up-and-running.github.io/helm-charts/)
+
 ## Examples for JBoss EAP 7.4
 
 * [eap7-getting-started](https://github.com/jboss-eap-up-and-running/eap7-getting-started) is a "Hello World" Jakarta EE application to demonstrate deployment of EAP 7 applications on OpenShift. 
