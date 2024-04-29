@@ -20,3 +20,4 @@ The examples are individual Git projects that focuses on common use cases.
 ## Examples for JBoss EAP 8
 
 * [eap8-getting-started](https://github.com/jboss-eap-up-and-running/eap8-getting-started) is a "Hello World" Jakarta EE  10 application to demonstrate deployment of EAP 8 applications on OpenShift. 
+* [eap8-with-postgres](https://github.com/jboss-eap-up-and-running/eap8-with-postgres) is a Jakarta EE 10 application that connects to a PostgreSQL Database
